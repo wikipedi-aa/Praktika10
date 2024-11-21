@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Orient">Ориентация</string>
+    <string name="app_name">Praktika10</string>
+    <string name="back">Предыдущая страница</string>
+    <string name="go">Следующая страница</string>
+    <string name="gravity">Gravity</string>
+    <string name="orient">Orient</string>
+    <string name="vyravniv">Выравнивание</string>
+    <style name="Base.Theme.Praktika10" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Praktika10" parent="Base.Theme.Praktika10"/>
+</resources>

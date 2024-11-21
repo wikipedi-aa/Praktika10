@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktika10</string>
+    <string name="orient">Orient</string>
+    <string name="gravity">Gravity</string>
+    <string name="go">Следующая страница</string>
+    <string name="back">Предыдущая страница</string>
+    <string name="Orient">Ориентация</string>
+    <string name="vyravniv">Выравнивание</string>
+</resources>
